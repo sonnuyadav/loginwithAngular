@@ -1,0 +1,11 @@
+npm install --save-dev@angular-devkit/build-angular
+
+Dependencies:
+https://www.npmjs.com/package/pomelo-node-client-websocket
+https://www.npmjs.com/package/pomelo-client-node-ws
+https://github.com/yangfch3/pomelo-client-websocket
+
+
+Usefull URLs
+
+https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
